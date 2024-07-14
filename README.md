@@ -1,6 +1,6 @@
-# chatbotservice
+# chatbot
 
-어떠한 챗봇
+chatbot variation
 
 
 ## fastAPI사용
